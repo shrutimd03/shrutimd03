@@ -1,8 +1,8 @@
 ## Hi, I'm Shruti 🍄
 
 🧠 Computer Science Student at VIT Chennai
-🌱 Currently learning front end dev!
-💼 Analyst at Deloitte USI
+🌱 Currently (and always) learning!
+💼 AI & Data Engineer at Deloitte USI
 
 
 ## 🌐 Socials:
