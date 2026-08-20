@@ -1,6 +1,6 @@
 ## Hi, I'm Shruti 🍄
 
-🧠 Computer Science Student at VIT Chennai
+🧠 CS Grad 
 🌱 Currently (and always) learning!
 💼 AI & Data Engineer at Deloitte USI
 
